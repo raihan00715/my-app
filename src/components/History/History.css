@@ -1,0 +1,15 @@
+.history{
+    
+    margin-left: 50px;
+    height: 500px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 3px 3px 30px rgb(111, 101, 250);
+    border-radius: 5px;
+    word-wrap:initial;
+    position: fixed;
+    padding: 20px;
+}
+.history:hover{
+    background-color: white;
+}

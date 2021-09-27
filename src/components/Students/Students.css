@@ -1,0 +1,16 @@
+/* style added for student  */
+.students{
+    
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding-left: 10px;
+    margin-top: 50px;
+    
+    
+}
+.info{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    
+}
